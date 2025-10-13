@@ -31,7 +31,3 @@ Cloud/DevOps: [e.g., AWS, Docker, GitHub Actions]
 👥 Contributors
 
 This is a collaborative project maintained by the SkillYards development team. Contributions, feature requests, and bug reports are welcome!
-
-📄 License
-
-[Include license info here, e.g., MIT License]
