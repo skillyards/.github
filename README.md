@@ -1,5 +1,5 @@
-![Laravel-QuickStart Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only)
-![Laravel-QuickStart Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
+![SkillYards LightMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only)
+![SkillYards DarkMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
 
 
 📁 SkillYards Git Repository
