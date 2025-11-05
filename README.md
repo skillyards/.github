@@ -1,6 +1,16 @@
 ![SkillYards LightMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only)
 ![SkillYards DarkMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg" download>
+    <img src="https://img.shields.io/badge/Download-Light%20Logo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Download Light Logo">
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg" download>
+    <img src="https://img.shields.io/badge/Download-Dark%20Logo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Download Dark Logo">
+  </a>
+</p>
+
 
 📁 SkillYards Git Repository
 
