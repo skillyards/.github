@@ -1,3 +1,7 @@
+![Laravel-QuickStart Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only)
+![Laravel-QuickStart Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
+
+
 📁 SkillYards Git Repository
 
 Welcome to the official Git repository for SkillYards – a dynamic platform focused on skill development, career growth, and learning empowerment through hands-on, real-world experiences. This repository contains the source code, configuration files, and development resources that power the SkillYards ecosystem.
