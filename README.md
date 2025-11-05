@@ -1,5 +1,5 @@
-![SkillYards LightMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only)
-![SkillYards DarkMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
+![SkillYards LightMode Logo](https://raw.githubusercontent.com/skillyards/.github/6f0b486f305c3664dcf013492349fdbb1d47f373/skillyards-light.svg#gh-light-mode-only)
+![SkillYards DarkMode Logo](https://raw.githubusercontent.com/skillyards/.github/6f0b486f305c3664dcf013492349fdbb1d47f373/skillyards-dark.svg#gh-dark-mode-only)
 
 <p align="center">
   <!-- Light Mode Logo -->
