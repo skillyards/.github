@@ -2,12 +2,27 @@
 ![SkillYards DarkMode Logo](https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only)
 
 <p align="center">
+  <!-- Light Mode Logo -->
+  <img src="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg#gh-light-mode-only" alt="SkillYards Light Logo" width="240">
+  <!-- Dark Mode Logo -->
+  <img src="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg#gh-dark-mode-only" alt="SkillYards Dark Logo" width="240">
+  <!-- Square Logo -->
+  <br><br>
+  <img src="https://github.com/skillyards/.github/blob/main/logo-square(1).png?raw=true" alt="SkillYards Square Logo" width="180" style="border-radius:12px;margin-top:8px;">
+</p>
+
+<p align="center">
+  <!-- Download Buttons -->
   <a href="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-light.svg" download>
-    <img src="https://img.shields.io/badge/Download-Light%20Logo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Download Light Logo">
+    <img src="https://img.shields.io/badge/⬇️%20Download-Light%20Logo-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Download Light Logo">
   </a>
   &nbsp;
   <a href="https://raw.githubusercontent.com/skillyards/.github/234cf5005ea987900b995b75abf2fb6b0370b047/logo-dark.svg" download>
-    <img src="https://img.shields.io/badge/Download-Dark%20Logo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Download Dark Logo">
+    <img src="https://img.shields.io/badge/⬇️%20Download-Dark%20Logo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Download Dark Logo">
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/skillyards/.github/78c4f425fb8bcda04d07167c2162015b3fef4c19/logo-square.svg" download>
+    <img src="https://img.shields.io/badge/⬇️%20Download-Square%20Logo-047857?style=for-the-badge&logo=github&logoColor=white" alt="Download Square Logo">
   </a>
 </p>
 
